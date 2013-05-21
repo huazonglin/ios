@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'iCodeBrowser' target in the 'iCodeBrowser' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
